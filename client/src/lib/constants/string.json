@@ -1,0 +1,101 @@
+{
+    "githubString": {
+      "githubConnect": "Connect to Github",
+      "githubAlert": " You need to connect to GitHub before accepting or rejecting project requests.",
+      "selectedContributor": "Selected Contributors",
+      "gitProfile": "Error fetching Github profile",
+      "profileDataNotFound": "No profile data available",
+      "organizationDetailNotAvailable": "No organization details available",
+      "errorOrgDetails": "Errors fetching organization details",
+      "search": "Search Results",
+      "publicRepo": "Public Repositories:",
+      "followers": "Followers:",
+      "organizationName": "Organization Name",
+      "githubUsername": "Github Username",
+      "disconnect":"Disconnect",
+      "viewProfile":"View Profile",
+      "cancel": "Cancel"
+    },
+  
+    "common": {
+      "loading": "Loading...",
+      "error": "Error:",
+      "roleHeadAdmin": "headAdmin",
+      "roleAdmin": "admin",
+      "roleApplicant": "applicant",
+      "roleFormSetter": "formSetter",
+      "comments": "Comments",
+      "addNotes": "Add Notes",
+      "submit": "Submit",
+      "role": "Role",
+      "selectRole": "Select Role",
+      "welcome": " Hi, Welcome back 👋",
+      "project": "Projects",
+      "user": "Users",
+      "requestDetails": "Project Request Details",
+      "basicInfo": "Basic Information",
+      "accessDenied": "Access Denied",
+      "projects": "Projects",
+      "osProjects": "OS Projects",
+      "osRequests": "OS Requests",
+      "projectRequests": "Project Requests",
+      "addRequest": "Add request",
+      "addUser": "Add User",
+      "current":"current",
+      "upcomming":"upcomming",
+      "contributors": "Contributors",
+      "assignedProjects": "projects Assigned:",
+      "forbidden": "This page is restricted. Please log in with the appropriate credentials to continue."
+    },
+    "login": {
+      "loginHeader": "Login",
+      "loginTitle": "Enter your Email and password to login",
+      "email": "Email",
+      "username": "Username",
+      "password": "Password",
+      "profile": "Profile",
+      "signOut": "Sign Out"
+    },
+  
+    "projectDashboard": {
+      "totalProject": "Total Projects",
+      "projectRequests": "Project Requests",
+      "orgs": "organizations",
+      "activeProjects": "Active Projects",
+      "projectOverview": "Project Overview",
+      "recentAddedProjects": "Recently Added Projects",
+      "totalContributors": "Total Contributors",
+      "totalCommits": "Total Commits",
+      "totalPr": "Total PR",
+      "totalForks": "Total Forks",
+      "totalIssues": "Total Issues",
+      "contributorList": "Contributors List"
+    },
+  
+    "employeeDashboard": {
+      "totalEmployee": "Total Employees",
+      "totalAdmin": "Total Admins",
+      "activeAdmin": "Active Admins",
+      "activeEmployee": "Active Employees",
+      "recentUser": "Recent Users added"
+    },
+  
+    "addRequest": {
+      "title": "Title",
+      "description": "Description",
+      "projectType": "Project Type",
+      "library": "Library",
+      "tool": "Tool",
+      "framework": "Framework",
+      "plugin": "Plugin",
+      "poc": "POC",
+      "motivation": "Motivation",
+      "goal": "Goal",
+      "targetUser": "Target Users",
+      "value": "Value To Users",
+      "risk": "Potential Risks",
+      "contributors": "Contributors",
+      "createdBy": "Created By"
+    }
+  }
+  
